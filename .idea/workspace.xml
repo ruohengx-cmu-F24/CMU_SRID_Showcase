@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea872ead-630a-4f36-86f3-8770282ad5c3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/srid-landing.webflow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/webflow.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/webflow.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +56,9 @@
       <updated>1730320682186</updated>
       <workItem from="1730320683207" duration="3000" />
       <workItem from="1730320889297" duration="1472000" />
-      <workItem from="1730337952829" duration="217000" />
+      <workItem from="1730337952829" duration="244000" />
+      <workItem from="1730338221460" duration="539000" />
+      <workItem from="1730498932613" duration="51000" />
     </task>
     <servers />
   </component>
