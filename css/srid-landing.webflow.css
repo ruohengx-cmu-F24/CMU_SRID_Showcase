@@ -2288,13 +2288,17 @@ figcaption {
 .waves---subtitle-3 {
   color: #fff;
   text-align: left;
-  font-size: 16px;
+  background-color: #000000c2;
+  border-radius: 25px;
+  padding: 10px;
+  font-size: 18px;
   line-height: 40px;
 }
 
 .waves---limit-481 {
   width: 100%;
   max-width: 700px;
+  padding: 10px;
 }
 
 .waves---mega-heading-3 {
@@ -2423,7 +2427,7 @@ figcaption {
 
 .waves---subtitle-4 {
   color: #444;
-  font-size: 12px;
+  font-size: 16px;
   line-height: 40px;
 }
 
@@ -2729,12 +2733,16 @@ figcaption {
 }
 
 .uui-section_contact03 {
-  background-color: #fff;
+  background-color: #f3f3f3;
 }
 
 .spline-scene-3 {
   height: 100vh;
   margin-top: 10px;
+}
+
+.youtube {
+  margin-top: 40px;
 }
 
 @media screen and (max-width: 991px) {
