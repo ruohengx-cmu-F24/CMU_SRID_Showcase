@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ea872ead-630a-4f36-86f3-8770282ad5c3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/srid-landing.webflow.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/srid-landing.webflow.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +63,7 @@
       <workItem from="1730705258177" duration="10000" />
       <workItem from="1730759644690" duration="4000" />
       <workItem from="1730760449525" duration="55000" />
+      <workItem from="1730760707053" duration="186000" />
     </task>
     <servers />
   </component>
